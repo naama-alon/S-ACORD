@@ -23,6 +23,19 @@ All scripts and configuration files are located in the `run_me` directory:
 | `config_fmap.py` | Functional map configuration |
 | `config_analysis.py` | Analysis configuration |
 
+---
+
+## Code Directories
+
+The implementation of the algorithm described in the paper is organized in the following directories:
+
+- `FastSpectrum/` – Spectral analysis routines.  
+- `analysis/` – Code for evaluating and visualizing results.  
+- `functional_map/` – Functional map computation methods.  
+- `goIcp/` – Go-ICP alignment code.  
+- `manifold/` – Manifold and mesh processing routines.  
+
+> The `main_run.py` script in `run_me` calls functions from these directories.
 
 
 ---
