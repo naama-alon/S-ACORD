@@ -61,6 +61,8 @@ All algorithm parameters can be modified via the configuration files in the `run
 - `config_fmap.py` - Controls the functional map computation.  
 - `config_analysis.py` - Controls analysis parameters and outputs.  
 
+> **Note:** By default, `analysis.py` shows as a plot only the last differences.  
+> If you want to visualize all changes, edit `analysis.py` at rows 81–82 and modify the corresponding settings.
 > For a first run, it is recommended to use the default configuration values.
 
 ---
