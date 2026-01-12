@@ -16,9 +16,11 @@ The method is described in the following publication:
 | File | Description |
 |------|-------------|
 | `main_run.py` | Main execution script |
-| `config_analysis.py` | Analysis configuration |
-| `config_fmap.py` | Functional map configuration |
 | `config_goIcp.py` | Go-ICP configuration |
+| `config_fmap.py` | Functional map configuration |
+| `config_analysis.py` | Analysis configuration |
+
+
 
 ---
 
@@ -54,3 +56,16 @@ From the `run_me` directory, run:
 
 ```bash
 python main_run.py
+
+### Citation
+
+If you use this code in your research, please cite:
+
+@inproceedings{alon2025s,
+  title={S-ACORD: Spectral Analysis of COral Reef Deformation},
+  author={Alon-Borissiouk, Naama and Yuval, Matan and Treibitz, Tali and Ben-Chen, Mirela},
+  booktitle={Computer Graphics Forum},
+  pages={e70044},
+  year={2025},
+  organization={Wiley Online Library}
+}
