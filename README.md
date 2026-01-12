@@ -37,6 +37,7 @@ The implementation of the algorithm described in the paper is organized in the f
 
 > **Note:** By default, `analysis.py` shows as a plot only the last differences.  
 > If you want to visualize all changes, edit `analysis.py` at rows 81–82 and modify the corresponding settings.
+
 > The `main_run.py` script in `run_me` calls functions from these directories.
 
 
