@@ -14,10 +14,14 @@ The method is described in the following publication:
 ## Directory Structure
 
 run_me/
-	├── main_run.py # Main execution script
-	├── config_analysis.py # Analysis configuration
-	├── config_fmap.py # Functional map configuration
-	├── config_goIcp.py # Go-ICP configuration
+
+├── main_run.py # Main execution script
+
+├── config_analysis.py # Analysis configuration
+
+├── config_fmap.py # Functional map configuration
+
+├── config_goIcp.py # Go-ICP configuration
 
 
 ---
