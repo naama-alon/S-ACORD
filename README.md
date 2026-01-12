@@ -57,6 +57,7 @@ From the `run_me` directory, run:
 ```bash
 python main_run.py
 
+---
 ### Citation
 
 If you use this code in your research, please cite:
