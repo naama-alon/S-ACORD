@@ -36,8 +36,7 @@ All scripts and configuration files are located in the `run_me` directory:
    - The input model paths are defined inside `main_run.py` and in the configuration files.  
 3. Example models are **not included** due to file size limitations.  
    - Two test models are available via an external link.  
-   - After downloading, place the models in `data\manifold\C1\.  
-
+   - After downloading, place the models in `data\manifold\C1\`.
 ---
 
 ### 2. Configuration Files
