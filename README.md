@@ -1,4 +1,4 @@
-# S-ACORd 
+v# S-ACORd 
 
 This repository contains the reference implementation for the paper **"S-ACORD: Spectral Analysis of COral Reef Deformation"** (Alon-Borissiouk et al.), presented at Eurographics 2025 and published in *Computer Graphics Forum* (Volume 44, Issue 2, May 2025).
 
@@ -17,6 +17,7 @@ The method is described in the following publication:
 |------|-------------|
 | `main_run.py` | Main execution script |
 | `config_goIcp.py` | Go-ICP configuration |
+| `config_FastSpectrum.py` | FastSpectrum configuration |
 | `config_fmap.py` | Functional map configuration |
 | `config_analysis.py` | Analysis configuration |
 
@@ -41,9 +42,10 @@ The method is described in the following publication:
 
 All algorithm parameters can be modified via the configuration files in the `run_me` directory:  
 
-- `config_goIcp.py` – Controls the Go-ICP alignment parameters.  
-- `config_fmap.py` – Controls the functional map computation.  
-- `config_analysis.py` – Controls analysis parameters and outputs.  
+- `config_goIcp.py` - Controls the Go-ICP alignment parameters.
+- `config_FastSpectrum.py` - Controls the FastSpectrum parameters.
+- `config_fmap.py` - Controls the functional map computation.  
+- `config_analysis.py` - Controls analysis parameters and outputs.  
 
 > For a first run, it is recommended to use the default configuration values.
 
