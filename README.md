@@ -62,11 +62,12 @@ python main_run.py
 
 If you use this code in your research, please cite:
 
+```bibtex
 @inproceedings{alon2025s,
-  title={S-ACORD: Spectral Analysis of COral Reef Deformation},
-  author={Alon-Borissiouk, Naama and Yuval, Matan and Treibitz, Tali and Ben-Chen, Mirela},
-  booktitle={Computer Graphics Forum},
-  pages={e70044},
-  year={2025},
-  organization={Wiley Online Library}
+  title     = {S-ACORD: Spectral Analysis of COral Reef Deformation},
+  author    = {Alon-Borissiouk, Naama and Yuval, Matan and Treibitz, Tali and Ben-Chen, Mirela},
+  booktitle = {Computer Graphics Forum},
+  pages     = {e70044},
+  year      = {2025},
+  publisher = {Wiley Online Library}
 }
