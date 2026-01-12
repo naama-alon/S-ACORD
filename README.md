@@ -54,7 +54,7 @@ For a first run, the default configuration values are recommended.
 
 From the `run_me` directory, run:
 
-bash
+```bash
 python main_run.py
 
 ---
