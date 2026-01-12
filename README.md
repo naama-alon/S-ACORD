@@ -58,7 +58,7 @@ From the `run_me` directory, run:
 python main_run.py
 
 ---
-### Citation
+## Citation
 
 If you use this code in your research, please cite:
 
