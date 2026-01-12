@@ -53,7 +53,7 @@ The implementation of the algorithm described in the paper is organized in the f
 2. Insert **two `.ply` models** that you want to evaluate or compare.  
    - The input model paths are defined inside `main_run.py` and in the configuration files.  
 3. Example models are **not included** due to file size limitations.  
-   - Two test models are available via an external link: [Zenodo](https://doi.org/10.5281/zenodo.18219168) 
+   - Two test models are available for download via Zenodo: [DOI: 10.5281/zenodo.18219168](https://doi.org/10.5281/zenodo.18219168)
    - After downloading, place the models in `data\manifold\C1\`.
 ---
 
