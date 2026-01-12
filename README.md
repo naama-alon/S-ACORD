@@ -13,6 +13,8 @@ The method is described in the following publication:
 
 ## Directory Structure
 
+All scripts and configuration files are located in the `run_me` directory:
+
 | File | Description |
 |------|-------------|
 | `main_run.py` | Main execution script |
