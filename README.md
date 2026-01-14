@@ -4,7 +4,6 @@ This repository contains the reference implementation for the paper **"S-ACORD: 
 
 The work combines geometry processing and marine science to analyze structural changes in coral reefs over time.
 
-license: CC-BY-NC-ND
 
 ---
 
